@@ -2,3 +2,5 @@ git
 sublime-text
 vim
 pipenv
+gh
+silversearcher-ag
